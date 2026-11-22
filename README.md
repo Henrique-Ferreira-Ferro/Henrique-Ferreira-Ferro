@@ -10,6 +10,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Henrique-Ferreira-Ferro/Henrique-Ferreira-Ferro/output/terminal.svg" width="640" alt="Henrique Ferro - Offensive Security Terminal" />
+</div>
 
 ## `whoami`
 
