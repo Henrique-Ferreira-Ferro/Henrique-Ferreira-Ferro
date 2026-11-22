@@ -1,58 +1,98 @@
-<h2 align="left">Olá a todos, meu nome é Henrique Ferro e é um prazer conhecê-los.</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Ferreira-Ferro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-Ferreira-Ferro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Henrique Ferro
+
+### Infraestrutura de TI | Segurança da Informação | Segurança Ofensiva
+
+*Explorando sistemas, identificando vulnerabilidades e desenvolvendo habilidades em segurança ofensiva.*
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F78%2Fde%2Fc7%2F78dec737f2fe3abf24d6d1f1b71609e5.gif&f=1&nofb=1&ipt=47dc994385e45280f657b6e3baef00fe45c08ca08def74f995e358207428deca&ipo=images"  />
+## `whoami`
 
-###
+Profissional de Infraestrutura de TI com experiência em ambientes Windows, Active Directory, segurança de endpoints, monitoramento e análise de eventos de segurança.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+Atualmente direcionando minha carreira para **Segurança Ofensiva**, com foco em Pentest, Bug Bounty e avaliação de segurança em ambientes corporativos.
+
+Acredito que compreender como os sistemas funcionam, identificar suas fragilidades e entender as técnicas utilizadas em ataques é fundamental para desenvolver uma visão sólida sobre segurança da informação.
+
+---
+
+## `technical_stack`
+
+**Offensive Security**
+
+![Nmap](https://img.shields.io/badge/Nmap-050a05?style=flat-square&logo=linux&logoColor=39FF14)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-050a05?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-050a05?style=flat-square&logo=metasploit&logoColor=00FFFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-050a05?style=flat-square&logo=wireshark&logoColor=00FFFF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-050a05?style=flat-square&logo=kalilinux&logoColor=39FF14)
+
+**Infrastructure & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-050a05?style=flat-square&logo=linux&logoColor=39FF14)
+![Windows Server](https://img.shields.io/badge/Windows_Server-050a05?style=flat-square&logo=windows&logoColor=00FFFF)
+![Active Directory](https://img.shields.io/badge/Active_Directory-050a05?style=flat-square&logo=microsoft&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-050a05?style=flat-square&logo=docker&logoColor=00FFFF)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-050a05?style=flat-square&logo=microsoft365&logoColor=00FFFF)
+
+**Security & Monitoring**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-050a05?style=flat-square&logo=wazuh&logoColor=39FF14)
+![Bitdefender](https://img.shields.io/badge/Bitdefender-050a05?style=flat-square&logoColor=39FF14)
+![GTB DLP](https://img.shields.io/badge/GTB_DLP-050a05?style=flat-square&logoColor=00FFFF)
+
+---
+
+## `areas_of_interest`
+
+- Active Directory Security
+- Network & Service Enumeration
+- Web Application Security
+- Windows & Linux Privilege Escalation
+- Exploitation & Post-Exploitation
+- Vulnerability Research
+- Bug Bounty
+- Penetration Testing
+
+---
+
+## `labs_and_research`
+
+Aprendizado baseado em prática, laboratórios controlados e pesquisas independentes.
+
+- **Active Directory:** enumeração, análise de permissões, relacionamentos e exploração.
+- **Windows & Linux:** enumeração e escalonamento de privilégios.
+- **Web Security:** reconhecimento, análise de aplicações e identificação de vulnerabilidades.
+- **Reconnaissance:** mapeamento de superfície de ataque e enumeração de serviços.
+- **Security Research:** experimentos, projetos e documentação técnica.
+
+Meus estudos e experimentos são documentados nos repositórios deste GitHub.
+
+---
+
+## `learning_platforms`
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-050a05?style=for-the-badge&logo=tryhackme&logoColor=39FF14)](https://tryhackme.com/)
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-050a05?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
+
+---
+
+## `connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a05?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/henriqueferreiraferro/)
+
+
+---
+
+<div align="center">
+
+`root@henrique:~$ echo "Keep learning. Keep exploring."`
+
+**[ END OF TRANSMISSION ]**
+
 </div>
-
-###
-
-<div align="left">
-  <a href="888518450899742781" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="henriqueferreiraferro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/henriqueferreiraferro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Henrique-Ferreira-Ferro/Henrique-Ferreira-Ferro/output/snake.svg" alt="Snake animation" />
-
-###
